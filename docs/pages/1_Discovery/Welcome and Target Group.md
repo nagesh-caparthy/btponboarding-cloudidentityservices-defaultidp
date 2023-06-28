@@ -1,8 +1,8 @@
 Welcome and Target Group for this Mission 
 
-Welcome to the SAP Discovery Center mission – “Getting Started with your SAP BTP Default Identity Provider and SAP Cloud Identity Service Provider (SAP IdP)”! 
+Welcome to the SAP Discovery Center mission – “Getting Started with your SAP BTP Default Identity Provider and SAP Cloud Identity Service Provider (SAP IdP)”!
 
-About this Mission 
+About this Mission
 
 This mission is designed to get you started on the SAP Security topic with BTP. As part of your SAP BTP purchase, SAP provides a Default Identity Provider at no additional charge for the purposes of supporting Authentication and Authorization requirements for both platform and business user management.  
 
