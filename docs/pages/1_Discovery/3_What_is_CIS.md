@@ -6,7 +6,7 @@ As you start your journey with the SAP Business Technology Platform or SAP Cloud
 
 <br>
 <p align="center"> 
-<img src="images/1.3.1_Suite_Qualities.png"> 
+<img src="images/1.3.1_Suite_Qualities.png" width="800" height="800"> 
 </p>
 <br>
 <p align="center" <b>Image 1</b> </p>
